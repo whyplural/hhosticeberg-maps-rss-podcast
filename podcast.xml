@@ -13,8 +13,8 @@
   <description>
   Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.
   </description>
-  <itunes:category text="Internet Mystery">
   <itunes:explicit>yes</itunes:explicit>
+  <itunes:type>serial</itunes:type>
   <language>ru</language>
 
   <item>
