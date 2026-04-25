@@ -3,17 +3,35 @@
  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
+
   <title>Айсберг</title>
+
   <itunes:author>TheBrianMaps</itunes:author>
-  <itunes:image href="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/cover2.jpg"/>
-  <image>
-    <url>https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/cover2.jpg</url>
-    <title>Serial</title>
-  </image>
-  <description>Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.</description>
-  <itunes:explicit>yes</itunes:explicit>
+
   <language>ru</language>
 
+  <itunes:explicit>yes</itunes:explicit>
+
+  <itunes:type>serial</itunes:type>
+
+  <itunes:image href="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/cover2.jpg"/>
+
+  <description>
+Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.<br/><br/>
+«Айсберг» — это серия выпусков от thebrianmaps, выполненная в формате многослойных разборов интернет-легенд, городских мифов и забытых уголков культуры. Каждый эпизод строится как вертикальное путешествие: от поверхности знакомых фактов до глубин, где реальность начинает трескаться, а привычные объяснения перестают работать.<br/><br/>
+С каждым уровнем айсберга тон меняется — от любопытных наблюдений и полуизвестных историй до тревожных, странных и иногда труднообъяснимых фрагментов. Это не просто разборы, а постепенное погружение в коллективную цифровую мифологию, где граница между вымыслом и реальностью становится всё менее очевидной.<br/><br/>
+Идеально для тех, кто любит, когда история начинается как обычный рассказ, а заканчивается ощущением, что лучше бы ты не спускался так глубоко.
+  </description>
+
+  <itunes:summary>
+Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.
+  </itunes:summary>
+
+  <itunes:category text="Internet Mystery"/>
+
+  <lastBuildDate>Sat, 25 Apr 2026 19:55:00 GMT</lastBuildDate>
+
+</rss>
   <item>
     <title>Тайны и Загадки Интернета</title>
 	<pubDate>Fri, 18 Aug 2023 14:32:42 GMT</pubDate>
