@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+  <title>Айсберг</title>
+  <itunes:author>TheBrianMaps</itunes:author>
+  <description>local podcast</description>
+  <language>ru</language>
+
+  <item>
+    <title>Тайны и Загадки Интернета</title>
+    <enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode1.mp3" type="audio/mpeg"/>
+  </item>
+
+  <item>
+    <title>Самые Страшные Квесты в Мире</title>
+    <enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode2.mp3" type="audio/mpeg"/>
+  </item>
+  
+  <item>
+    <title>Тайны и Загадки Интернета 2</title>
+    <enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode3.mp3" type="audio/mpeg"/>
+  </item>
+  
+  <item>
+    <title>Катастрофы на аттракционах, о кокторых вы не знали (21 инцидент)</title>
+    <enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode4.mp3" type="audio/mpeg"/>
+  </item>
+  
+  <item>
+    <title>Тайны и Загадки Интернета 3</title>
+    <enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode5.mp3" type="audio/mpeg"/>
+  </item>
+
+</channel>
+</rss>
