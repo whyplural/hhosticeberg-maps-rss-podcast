@@ -5,31 +5,22 @@
 <channel>
 
   <title>Айсберг</title>
-
   <itunes:author>TheBrianMaps</itunes:author>
-
   <language>ru</language>
-
   <itunes:explicit>yes</itunes:explicit>
-
-  <itunes:type>serial</itunes:type>
-
+  <itunes:type>episodic</itunes:type>
   <itunes:image href="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/cover2.jpg"/>
-
   <description>
 Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.<br/><br/>
 «Айсберг» — это серия выпусков от thebrianmaps, выполненная в формате многослойных разборов интернет-легенд, городских мифов и забытых уголков культуры. Каждый эпизод строится как вертикальное путешествие: от поверхности знакомых фактов до глубин, где реальность начинает трескаться, а привычные объяснения перестают работать.<br/><br/>
 С каждым уровнем айсберга тон меняется — от любопытных наблюдений и полуизвестных историй до тревожных, странных и иногда труднообъяснимых фрагментов. Это не просто разборы, а постепенное погружение в коллективную цифровую мифологию, где граница между вымыслом и реальностью становится всё менее очевидной.<br/><br/>
 Идеально для тех, кто любит, когда история начинается как обычный рассказ, а заканчивается ощущением, что лучше бы ты не спускался так глубоко.
   </description>
-
   <itunes:summary>
 Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.
   </itunes:summary>
-
   <itunes:category text="Internet Mystery"/>
-
-  <lastBuildDate>Sat, 25 Apr 2026 19:55:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 26 Apr 2026 05:57:30 GMT</lastBuildDate>
 
   <item>
     <title>Тайны и Загадки Интернета</title>
