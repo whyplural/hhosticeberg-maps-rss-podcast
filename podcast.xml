@@ -9,16 +9,15 @@
 	<itunes:description>Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.<br/><br/>
 «Айсберг» — это серия выпусков от thebrianmaps, выполненная в формате многослойных разборов интернет-легенд, городских мифов и забытых уголков культуры. Каждый эпизод строится как вертикальное путешествие: от поверхности знакомых фактов до глубин, где реальность начинает трескаться, а привычные объяснения перестают работать.<br/><br/>
 С каждым уровнем айсберга тон меняется — от любопытных наблюдений и полуизвестных историй до тревожных, странных и иногда труднообъяснимых фрагментов. Это не просто разборы, а постепенное погружение в коллективную цифровую мифологию, где граница между вымыслом и реальностью становится всё менее очевидной.<br/><br/>
-Идеально для тех, кто любит, когда история начинается как обычный рассказ, а заканчивается ощущением, что лучше бы ты не спускался так глубоко.</itunes:description>
+Запасайтесь дыханием, потому что мы начинаем погружение.</itunes:description>
 	<itunes:author>TheBrianMaps</itunes:author>
 	<language>ru</language>
 	<itunes:explicit>yes</itunes:explicit>
-	<itunes:type>episodic</itunes:type>
 	<itunes:image href="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/cover2.jpg"/>
 	<description>Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.<br/><br/>
 «Айсберг» — это серия выпусков от thebrianmaps, выполненная в формате многослойных разборов интернет-легенд, городских мифов и забытых уголков культуры. Каждый эпизод строится как вертикальное путешествие: от поверхности знакомых фактов до глубин, где реальность начинает трескаться, а привычные объяснения перестают работать.<br/><br/>
 С каждым уровнем айсберга тон меняется — от любопытных наблюдений и полуизвестных историй до тревожных, странных и иногда труднообъяснимых фрагментов. Это не просто разборы, а постепенное погружение в коллективную цифровую мифологию, где граница между вымыслом и реальностью становится всё менее очевидной.<br/><br/>
-Идеально для тех, кто любит, когда история начинается как обычный рассказ, а заканчивается ощущением, что лучше бы ты не спускался так глубоко.</description>
+Запасайтесь дыханием, потому что мы начинаем погружение.</description>
 	<itunes:summary>
 Погружение в слои историй, где каждая следующая глубже, холоднее и страннее предыдущей.
 	</itunes:summary>
@@ -27,6 +26,8 @@
 
 	<item>
 		<title>Тайны и Загадки Интернета</title>
+		<description>Странные места на гугл картах, Backrooms в реальной жизни, комната 322 и настоящая ведьма из блэр.</description>
+		<itunes:summary>Краткое описание эпизода 1</itunes:summary>
 		<pubDate>Fri, 18 Aug 2023 14:32:42 GMT</pubDate>
 		<itunes:episode>1</itunes:episode>
 		<enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode1.mp3" type="audio/mpeg"/>
@@ -34,6 +35,8 @@
 
 	<item>
 		<title>Самые Страшные Квесты в Мире</title>
+		<description>McKamey Manor, Cracked, Catharsis, The Victim Experience и многие другие.</description>
+		<itunes:summary>Краткое описание эпизода 1</itunes:summary>
 		<pubDate>Fri, 08 Dec 2023 20:13:00 GMT</pubDate>
 		<itunes:episode>2</itunes:episode>
 		<enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode2.mp3" type="audio/mpeg"/>
@@ -41,6 +44,8 @@
   
 	<item>
 		<title>Тайны и Загадки Интернета 2</title>
+		<description>Menugate, лицо в телевизоре, призраки Tesla, песня, которую никто не слышал и другое.</description>
+		<itunes:summary>Краткое описание эпизода 1</itunes:summary>
 		<pubDate>Mon, 12 Aug 2024 13:34:41 GMT</pubDate>
 		<itunes:episode>3</itunes:episode>
 		<enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode3.mp3" type="audio/mpeg"/>
@@ -48,6 +53,8 @@
   
 	<item>
 		<title>Катастрофы на аттракционах, о которых вы не знали (21 инцидент)</title>
+		<description>Top Thrill Dragster, New Texas Giant, карнавал в Омахе, Оренбургская карусель и многое другое.</description>
+		<itunes:summary>Краткое описание эпизода 1</itunes:summary>
 		<pubDate>Mon, 06 Jan 2025 17:40:24 GMT</pubDate>
 		<itunes:episode>4</itunes:episode>
 		<enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode4.mp3" type="audio/mpeg"/>
@@ -55,6 +62,8 @@
   
 	<item>
 		<title>Тайны и Загадки Интернета 3</title>
+		<description>Пауки в Wii U, leathersmokemi, сбой Instagram 26 февраля, Dammit Boy и многое другое.</description>
+		<itunes:summary>Краткое описание эпизода 1</itunes:summary>
 		<pubDate>Sat, 28 Jun 2025 14:29:26 GMT</pubDate>
 		<itunes:episode>5</itunes:episode>
 		<enclosure url="https://raw.githubusercontent.com/whyplural/hhosticeberg-maps-rss-podcast/refs/heads/main/episode5.mp3" type="audio/mpeg"/>
